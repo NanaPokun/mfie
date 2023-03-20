@@ -1,0 +1,1 @@
+// This is to be imported into the App.js file to be displayed as the main page
